@@ -1,0 +1,13 @@
+site_name: Maker Thursday
+site_url: 
+
+theme:
+  name: material
+
+plugins:
+  - blog
+
+nav:
+  - index.md
+  - Journal:
+    - blog/index.md
