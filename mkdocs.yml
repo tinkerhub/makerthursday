@@ -6,6 +6,7 @@ theme:
 
 plugins:
   - blog
+  - search
 
 nav:
   - index.md
