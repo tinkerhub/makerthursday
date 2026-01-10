@@ -1,13 +1,13 @@
 ---
-title: Maker Thursay 2025 Review and 2026 Planning.
+title: 'MakerThursday 0x00: 2026 Plan for Maker Thursday, 2025 Reflections and Project showcasing'
 date: 2026-01-10
 authors: [salman]
-slug: 2026-planning
+slug: maker-thursday-0x00
 description: >
   Reflections on Maker Thursday 2025 and plans for growing community engagement, activities, and documentation in 2026.
 ---
 
-# 2026 Plan for Maker Thursday, 2025 Reflections and Project showcasing.
+# MakerThursday 0x00: 2026 Plan for Maker Thursday, 2025 Reflections and Project showcasing.
 
 ![2025 Statistics](../assets/images/2026-01-08-planning-for-2026/2025-statistics.png)
 
