@@ -9,7 +9,7 @@ description: >
 
 # MakerThursday 0x00: 2026 Plan for Maker Thursday, 2025 Reflections and Project showcasing.
 
-![2025 Statistics](../assets/images/2026-01-08-planning-for-2026/2025-statistics.png)
+![2025 Statistics](../assets/images/2026-01-10-maker-thursday-0x00/2025-statistics.png)
 
 We reflected on the 2025 event highlights and gathered feedback from the community. Throughout 2025, we hosted **27 Maker Thursday sessions**, with **184 unique attendees** and **22 different hosts**, which is a strong outcome for a community-run initiative.
 
@@ -23,7 +23,7 @@ We discussed some of the key achivment we got from the MakerThursady using the c
 
 -  **Arduino Day 2025** Similar to Raspberry Pi Jam, Arduino Day 2025 was also organized collaboratively with TinkerSpace community members and MakerGram. The idea and planning originated from Maker Thursday discussions, with community members volunteering as speakers and contributors. [Blog Post](https://salmanfarisvp.com/blog/arduino-day-2025-kochi/) , [Event Page](https://tinkerhub.org/events/LU4PQRP6F4/Aurdino%20Day%202025).
 
-![Space Carnival Badge](../assets/images/2026-01-08-planning-for-2026/pcb-badge.png)
+![Space Carnival Badge](../assets/images/2026-01-10-maker-thursday-0x00/pcb-badge.png)
 
 - **Space Carnival Badge** : Creating a PCB badge had been a long-term plan for us, and we finally brought it to life at the end of the year during **TinkerSpace’s 3rd anniversary Space Carnival**. The badge was intentionally simple, using LEDs and batteries, giving curious participants an opportunity to try soldering and build their own badge.
 
@@ -42,12 +42,12 @@ During the review and planning discussion, we aligned on the following actions f
 
 ## This Week’s Project Presentation
 
-![Ramakanth shared Meow Synth](../assets/images/2026-01-08-planning-for-2026/meow-synth-ramakanth-project.png)
+![Ramakanth shared Meow Synth](../assets/images/2026-01-10-maker-thursday-0x00/meow-synth-ramakanth-project.png)
 
 **Ramakanth** shared **Meow Synth**, an ESP32-based mini synthesizer. Kudos to him for showcasing the project and walking us through his work.
 
 That’s a wrap for this week. Thanks to everyone for the continued support, and we’re excited for the new year and many more builds ahead.
-![Group Photo](../assets/images/2026-01-08-planning-for-2026/group-photo.png)
+![Group Photo](../assets/images/2026-01-10-maker-thursday-0x00/group-photo.png)
 
 ### Next Week’s Topic
 
