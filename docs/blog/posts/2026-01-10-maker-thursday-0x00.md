@@ -53,3 +53,4 @@ That’s a wrap for this week. Thanks to everyone for the continued support, and
 
 **Document Your Project 101**
 A practical session focused on how to document maker projects clearly and effectively, covering basics such as structure, photos, write-ups, and sharing work through journals and repositories.
+------
