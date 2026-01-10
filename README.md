@@ -28,6 +28,24 @@ See **`How to Contribute`** for detailed guidelines.
 
 ## 🗂 Journal Structure
 
-```text
-/docs/maker-thursday/
-  ├── YYYY-MM-DD-maker-thursday.md
+```
+## Overview
+Short summary of the session.
+
+## Topics
+- Topic or activity
+
+## Project Presentation
+- Name – project title
+
+## Photos
+- **Group photo**
+- **Activity photo**
+
+## Highlights
+- Key takeaway
+
+## Next Week
+- Topic
+- Host
+```
