@@ -15,7 +15,7 @@ We reflected on the 2025 event highlights and gathered feedback from the communi
 
 While a few weeks were missed due to host unavailability, the situation improved significantly in the later quarters of 2025. More new hosts stepped up to run sessions, which became one of the key highlights of the year.
 
-### Achivements
+### Achievements
 
 We discussed some of the key achivment we got from the MakerThursady using the community.
 
