@@ -22,7 +22,7 @@ Each Maker Thursday session is documented by its host(s).
 - Contributions are made via GitHub pull requests
 - Multiple authors are supported for co-hosted sessions
 
-See **[How to Contribute](https://tinkerhub.github.io/makerthursday/blog/2026/01/13/how-to-document/)** for detailed guidelines.
+✨ See **[How to Contribute](https://tinkerhub.github.io/makerthursday/blog/2026/01/13/how-to-document/)** for detailed guidelines.
 
 ---
 
