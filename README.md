@@ -49,3 +49,9 @@ Short summary of the session.
 - Topic
 - Host
 ```
+
+## 🤝 Contributors
+
+<a href="https://github.com/tinkerhub/makerthursday/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=tinkerhub/makerthursday" />
+</a>
