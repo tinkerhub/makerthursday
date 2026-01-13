@@ -5,7 +5,7 @@ pin: true
 authors: [salman]
 slug: how-to-document
 description: >
-  Guide on how to document
+  Guide on how to document a maker thursday journal.
 ---
 
 Maker Thursday is a weekly, community driven gathering at TinkerSpace where people connect, share, and build.
