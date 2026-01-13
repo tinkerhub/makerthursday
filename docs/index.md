@@ -32,6 +32,11 @@ _This space documents weekly Maker Thursday sessions, including topics, projects
 
 ---
 
+!!! note
+  For guidelines on writing and submitting **Maker Thursday journal** entries, see the [How to Document](https://tinkerhub.github.io/makerthursday/blog/2026/01/13/how-to-document/) section.
+
+---
+
 ## Contributors
 
 <a href="https://github.com/tinkerhub/makerthursday/graphs/contributors">

@@ -27,3 +27,7 @@ nav:
   - index.md
   - Journal:
     - blog/index.md
+
+# Extensions
+markdown_extensions:
+  - admonition
