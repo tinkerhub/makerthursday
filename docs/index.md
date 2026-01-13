@@ -31,11 +31,19 @@ It thrives on the contributions of people who share knowledge, ideas, and time.
 _This space documents weekly Maker Thursday sessions, including topics, projects, and shared learnings._
 
 ---
+
+## Contributors
+
+<a href="https://github.com/tinkerhub/makerthursday/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=tinkerhub/makerthursday" />
+</a>
+
+---
+
 ## Supported By
 
 | <img src="https://avatars.githubusercontent.com/u/45253922?s=200&v=4" alt="TinkerHub Logo" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/57012514?s=170&v=4" alt="MakerGram Logo" width="100" height="100"> |
 |:---:|:---:|
 | **TinkerHub** | **MakerGram** |
-
 
 
