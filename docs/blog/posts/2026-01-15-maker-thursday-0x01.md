@@ -11,6 +11,25 @@ description: >
 
 ![Team Photo](../assets/images/2026-01-15-maker-thursday-0x01/group-photo.png)
 
-### Next Week’s Topic
+## Overview
+This Maker Thursday focused on the importance of documentation and how makers can better share their work. The session had an interactive and practical vibe, with discussions around why documentation matters and how it helps projects grow beyond just prototypes. [Salman](https://salmanfarisvp.com/) [Me] led the session and shared real-world workflows, tools, and best practices used in day-to-day maker and open source projects.
+
+## Topics
+- Why documentation matters in maker projects
+- Best practices for writing clear and useful documentation
+- Tools and platforms for sharing project work
+
+## Slides
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQyg_UCI3seXYuuH4Pf7xVKE9pjVwKEoLY9IVgLBnI1dfApraj6vnNkcN6DYKF_He7jk0RbgU3Np1ry/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+## Highlights
+- Participants learned practical documentation workflows and tools that can be immediately applied to their own projects.
+
+## Next Week
+- Topic: "RoboWar Team" sharing their experince. 
+- Host: Devadath
+
 
 ------

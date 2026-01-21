@@ -1,7 +1,6 @@
 ---
 title: 'How to Document a Maker Thursday Session'
 date: 2026-01-13
-pin: true
 authors: [salman]
 slug: how-to-document
 description: >
