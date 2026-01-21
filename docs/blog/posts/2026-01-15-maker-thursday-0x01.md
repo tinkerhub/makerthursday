@@ -25,11 +25,10 @@ This Maker Thursday focused on the importance of documentation and how makers ca
 
 
 ## Highlights
-- Participants learned practical documentation workflows and tools that can be immediately applied to their own projects.
+-  Discussed practical documentation workflows and tools that can be immediately applied to personal and community projects. (The full tool list is available in the slides attached above.)
 
 ## Next Week
-- Topic: "RoboWar Team" sharing their experince. 
+- Topic: "RoboWar Team" sharing their experince.
 - Host: Devadath
-
 
 ------
