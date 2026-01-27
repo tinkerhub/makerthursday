@@ -29,6 +29,6 @@ This Maker Thursday focused on the importance of documentation and how makers ca
 
 ## Next Week
 - Topic: "RoboWar Team" sharing their experince.
-- Host: Devadath
+- Host: [Devadath S](https://tinkerhub.org/@dev_devadath)
 
 ------
