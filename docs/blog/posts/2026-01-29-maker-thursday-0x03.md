@@ -4,7 +4,7 @@ date: 2026-01-29
 authors: [ramakanth]
 slug: maker-thursday-0x03
 description: >
-  This week’s Maker Thursday was focused on electronic synthesizer
+  This week's Maker Thursday was focused on building electronic synthesizers.
 ---
 
 ## Overview
