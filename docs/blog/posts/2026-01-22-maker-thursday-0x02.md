@@ -26,5 +26,5 @@ We also had another maker who built a multi-drone system for an agriculture dron
 * One key takeaway from the session was learning directly from our makers’ real competition experiences, which gave everyone practical insights and motivation to build and improve their own robotics projects.
 
 ## Next Week
-- Topic: TBD
-- Host: [Salman Faris](https://tinkerhub.org/@salmanfarisvp)
+- Topic: Building a Synthesizer
+- Host: [Ramakanth](https://tinkerhub.org/@ramakanth)
