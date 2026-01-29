@@ -1,6 +1,6 @@
 # Maker Thursday
 
-Maker Thursday is a **weekly, community-driven gathering** at TinkerSpace where makers come together to share ideas, build projects, and learn from each other.
+Maker Thursday is a weekly, community-driven gathering at TinkerSpace where makers come together to share ideas, build projects, and learn from one another.
 
 This repository documents Maker Thursday sessions and serves as a public archive of activities, discussions, and community contributions.
 
@@ -55,3 +55,4 @@ Short summary of the session.
 <a href="https://github.com/tinkerhub/makerthursday/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=tinkerhub/makerthursday" />
 </a>
+
