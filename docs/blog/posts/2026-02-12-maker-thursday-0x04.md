@@ -18,7 +18,7 @@ This Maker Thursday was mostly a community sync with announcements, ownership on
 ![Hack4Play: Kochi Muziris Biennale Collateral](../assets/images/2026-02-12-maker-thursday-0x04/hack4play.png)
 
 - **Inventory management:** [Shaan Shoukath](https://tinkerhub.org/@shaan_shoukath) joined as the new Inventory Manager, and the parts requesting/managing site is live at [`https://makerspace-inventory-hub.vercel.app/`](https://makerspace-inventory-hub.vercel.app/).
-- **Meshtastic hiking plan:** A Meshtastic hiking activity is being planned in collaboration with Seeed Studio and TinkerSpace. [Samad](https://tinkerhub.org/@abdulsamadmj) and [Jasim](https://tinkerhub.org/@jasim) will be in charge of, targeting **April 2026**.
+- **Meshtastic hiking plan:** A Meshtastic hiking activity is being planned in collaboration with Seeed Studio and TinkerSpace. [Samad](https://tinkerhub.org/@abdulsamadmj) and [Jasim](https://tinkerhub.org/@jasim) will be responsible for, targeting **April 2026**.
 - **Arduino Day:** Planned for **Mar 28, 2026**, with [Abhiram](https://tinkerhub.org/@abhiram) taking ownership (details to be finalized).
 - **3D printer queue system:** The queue system was deployed by [Ryyan Safar](https://tinkerhub.org/@ryyansafar) (available via [`https://tinkerspace-3d-printing-queue.vercel.app/`](https://tinkerspace-3d-printing-queue.vercel.app/)).
 - **Kutty Makers Camp:** Planned during working days in **April 2026** (summer). Everyone present was requested to contribute **one working day** for the event.
