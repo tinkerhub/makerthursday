@@ -16,19 +16,18 @@ The session served as a platform to showcase practical, real-world applications 
 - Showcasing use-cases for assistive technology, robotics, and home automation
 
 ## Project Presentation
-- Nikhil S – IoT Piano(Home automation prototype) 
-- Nikhil S – Object Avoidance Robot
-- Nikhil S – Smart Shoe Module for Blind
-- Nikhil S – Smart Automated Staircase Light
+* Nikhil showcased his prototypes on: 
+    * IoT Piano (Home automation prototype) 
+    * Object Avoidance Robot
+    * Smart Shoe Module for Blind
+    * Smart Automated Staircase Light
 
 ## Photos
-### Group photo
-![Group photo]()
 
 ### Activity photo
-![Activity photo](../assets/2026-02-19-maker-thursday-0x05/image_1.jpg)
-![Activity photo](../assets/2026-02-19-maker-thursday-0x05/image_2.jpg)
-![Activity photo](../assets/2026-02-19-maker-thursday-0x05/image_3.jpg)
+![Activity photo](../assets/images/2026-02-19-maker-thursday-0x05/image_1.jpeg)
+![Activity photo](../assets/images/2026-02-19-maker-thursday-0x05/image_2.jpeg)
+![Activity photo](../assets/images/2026-02-19-maker-thursday-0x05/image_3.jpeg)
 
 ## Highlights
 -  The session provided live demonstrations and answered technical questions about the circuitry, sensors, and code.
