@@ -1,10 +1,10 @@
 ---
 title: 'MakerThursday 0x07: Arduino Day 2026 - Pre-Event'
-date: YYYY-MM-DD
-authors: [autor]
-slug: maker-thursday-0xXX
+date: 2026-03-26
+authors: [ramakanth]
+slug: maker-thursday-0x07
 description: >
-  This Maker Thursday we discussed 
+  This Maker Thursday we discussed preparations regarding Arduino Day 2026.
 ---
 
 ## Overview
@@ -12,12 +12,9 @@ This Maker Thursday was around community sync with discussions regarding Arduino
 
 ## Topics
 - Discussions regarding Arduino Day 2026 celebration
-- Mole Crab Robot: A stealth robot that uses biomimicing.
-- Topic 3
 
 ## Project Presentation
-- Name – project title (one line summary if needed)
-- Name – project title
+- Mole Crab Robot: A stealth robot that uses biomimicing.
 
 ## Photos
 ### Group photo
