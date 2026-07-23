@@ -1,7 +1,7 @@
 ---
 title: 'MakerThursday 0x06: Introduction to Drones'
 date: 2026-03-19
-authors: [amaljith]
+authors: [vjsreyas]
 slug: maker-thursday-0x06
 description: >
   This session introduces participants to the rising impact of drones across fields like photography, agriculture, surveillance, and engineering. It also provides a foundational understanding of how drones are designed, built, and operate.
