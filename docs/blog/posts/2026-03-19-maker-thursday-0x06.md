@@ -34,5 +34,5 @@ This week’s session focused on the growing role of drones across multiple indu
 - Participants gained a clear understanding of how drones operate beyond just flying devices
 
 ## Next Week
-- Topic: Advanced Drone Control & Programming
+- Topic: TBD
 - Host: TBD
