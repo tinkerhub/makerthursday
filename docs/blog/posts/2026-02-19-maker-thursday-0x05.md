@@ -18,7 +18,7 @@ The session served as a platform to showcase practical, real-world applications 
 ## Project Presentation
 * Nikhil showcased his prototypes on: 
     * IoT Piano (Home automation prototype) 
-    * Object Avoidance Robot
+    * Obstacle Avoiding Robot
     * Smart Shoe Module for Blind
     * Smart Automated Staircase Light
 
