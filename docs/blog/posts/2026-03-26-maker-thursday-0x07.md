@@ -8,10 +8,11 @@ description: >
 ---
 
 ## Overview
-This Maker Thursday was around community sync with discussions regarding Arduino Day 2026, Arduino Uno Q and a project update. We aligned on timelines for collaborations and what to prepare for Arduino Day 2026. Two of our community members [Aaron](https://tinkerhub.org/@aaron_23) and Michael shared the progress on their Mole Crab Robot project.
+During this Maker Thursday, we gathered to coordinate plans for Arduino Day 2026 and discuss the Arduino Uno Q. We finalized collaboration timelines and event preparations. Additionally, [Aaron](https://tinkerhub.org/@aaron_23) and [Michael](https://app.tinkerhub.org/u/MUY060N50J) showcased the latest development stages of their biomimetic Mole Crab Robot.
 
 ## Topics
 - Preparations regarding Arduino Day 2026 celebration.
+- Arduino UNO Q
 
 ## Project Presentation
 - Mole Crab Robot: A stealth robot that uses biomimicing.
