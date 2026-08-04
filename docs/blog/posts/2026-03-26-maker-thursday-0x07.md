@@ -15,7 +15,7 @@ During this Maker Thursday, we gathered to coordinate plans for Arduino Day 2026
 - Arduino UNO Q
 
 ## Project Presentation
-- Mole Crab Robot: A stealth robot that uses biomimicing.
+- Mole Crab Robot: A stealth robot that uses biomimicry.
 
 ## Photos
 ### Group photo
@@ -23,7 +23,7 @@ During this Maker Thursday, we gathered to coordinate plans for Arduino Day 2026
 
 ### Activity photo
 ![Activity photo](../assets/images/2026-03-26-maker-thursday-0x07/07_maker_thursday_photo.jpeg)
-![Activity photo](../assets/images/2026-03-26-maker-thursday-0x07/07_maker_thursday_project.jpeg)
+![Mole Crab Robot project](../assets/images/2026-03-26-maker-thursday-0x07/07_maker_thursday_project.jpeg)
 
 
 ### Line Follower Competition Track Preparation
@@ -34,7 +34,7 @@ During this Maker Thursday, we gathered to coordinate plans for Arduino Day 2026
 </video>
 
 ## Highlights
-- Community members prepared track for arduino day line follower competition
+- Community members prepared a track for Arduino Day line follower competition
 
 ## Next Week
 - Topic: TBD
