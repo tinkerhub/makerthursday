@@ -34,7 +34,7 @@ During this Maker Thursday, we gathered to coordinate plans for Arduino Day 2026
 </video>
 
 ## Highlights
-- Community members prepared a track for Arduino Day line follower competition
+- Community members prepared the track for the Arduino Day line-follower competition
 
 ## Next Week
 - Topic: TBD
