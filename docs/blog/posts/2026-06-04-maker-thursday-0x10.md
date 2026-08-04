@@ -16,7 +16,7 @@ We focused on how WLED is beginner-friendly, making it easy to build lighting pr
 ## Topics
 - Introduction to **WLED** and its initial setup.
 - The difference between normal LED strips and addressable **WS2812B** LED.
-- Controller requirements: Why the ESP32 controller is needed for modern WLED features.
+- Controller requirements: Although WLED still supports the ESP8266, the ESP32 is recommended for new setups to support advanced features like audio reactivity, multiple LED output pins and higher LED counts.
 - Controlling WLED: web application dashboard, native Android & iOS mobile apps, and integration options (like Home Assistant).
 
 ## Project Presentation
