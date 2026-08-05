@@ -23,11 +23,11 @@ During the session, [Salman Faris](https://tinkerhub.org/@salmanfarisvp) explain
 ## Photos
 
 ### Activity photo
-![Activity photo](../assets/images/2026-04-02-maker-thursday-0x08/08_maker_thursday_photo.jpeg)
-![Activity photo](../assets/images/2026-04-02-maker-thursday-0x08/08_maker_thursday_activity.jpeg)
+![Maker Thursday group photo](../assets/images/2026-04-02-maker-thursday-0x08/08_maker_thursday_photo.jpeg)
+![Ender-3 S1 Pro CNC plotter activity](../assets/images/2026-04-02-maker-thursday-0x08/08_maker_thursday_activity.jpeg)
 
 ## Highlights
-- Basics of 3D printers and its working
+- Basics of 3D printers and how they work.
 - Successfully powered on the Creality Ender-3 S1 Pro and identified the limit switch issue.
 
 ## Next Week
